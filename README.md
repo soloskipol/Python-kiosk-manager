@@ -1,7 +1,4 @@
 # python-kiosk-manager
-A Python kiosk management system for managing inventory, recording sales, searching products, and saving data between sessions.
-
-# Python Kiosk Manager
 
 A simple command-line kiosk management system built with Python.
 
